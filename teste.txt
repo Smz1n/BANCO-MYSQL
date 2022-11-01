@@ -1,0 +1,5 @@
+CREATE TABLE `dc`,`produtos` (
+    id produtos int not null
+)
+
+INSERT INTO `dc`.`produtos` (`idprodutos`)
